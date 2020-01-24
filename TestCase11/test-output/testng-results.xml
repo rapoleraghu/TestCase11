@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="168813" started-at="2020-01-23T09:39:30Z" finished-at="2020-01-23T09:42:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="168813" started-at="2020-01-23T09:39:30Z" finished-at="2020-01-23T09:42:19Z">
+      <class name="TestCase11.TestCase11Testing">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestCase11.TestCase11Testing@353d0772]" name="setup" is-config="true" duration-ms="103997" started-at="2020-01-23T09:39:30Z" finished-at="2020-01-23T09:41:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkItemRemove()[pri:0, instance:TestCase11.TestCase11Testing@353d0772]" name="checkItemRemove" duration-ms="63863" started-at="2020-01-23T09:41:14Z" finished-at="2020-01-23T09:42:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkItemRemove -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:TestCase11.TestCase11Testing@353d0772]" name="closebrowser" is-config="true" duration-ms="907" started-at="2020-01-23T09:42:18Z" finished-at="2020-01-23T09:42:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- TestCase11.TestCase11Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
